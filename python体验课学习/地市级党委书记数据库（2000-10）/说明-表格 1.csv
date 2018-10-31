@@ -1,0 +1,27 @@
+"中国人民共和国地市级党委书记数据库（2000-2010）
+Data on Prefectural Party Secretary of P. R. China, 2000-2010
+
+如使用本数据库，请在论文中致谢或引用。使用过程中遇到问题，请联系cs@fudan.edu.cn。引用格式：
+
+陈硕，2015，从治理到制度：央地关系下的中国政治精英选拔，1368-2010。复旦大学经济系工作论文
+
+Please kindly acknowledge us (see below) when publishing your work using this data source--be it in whole or in part. Contact cs@fudan.edu.cn if you have any questions concerning either the data structure or programming.
+
+Shuo Chen, 2015, “From Governance to Institutionalization: Political Selection from the Perspective of Central-local Relations in China--Past and Present (1368-2010)” Department of Economics, Fudan University Working Paper.
+
+地市级党委书记数据库由复旦大学经济学院陈硕副教授及其团队（Fudan WTF Social Science Lab）成员整理。数据库涵盖全国27个省（及自治区）333个地级市（及副省级城市、自治州和地区）2000-2010年989位党委书记个人信息。数据类型为市-年平衡面板， 3663个市-年-党委书记观察值（缺失642个观察值信息，实有3021个观察值）。以下是数据建立方法：
+
+1. 查阅各省（及自治区）年鉴整理出2000-2010年间各地市级行政区划党委书记名单
+2. 通过人民网、新华网、各地方政府网站及百度百科查询各党委书记简历
+3. 对简历进行电子化整理获得现有数据库
+4. 当某市某年有超过1位党委书记任职时，我们以最后上任书记信息为准
+",,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
